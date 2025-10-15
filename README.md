@@ -85,7 +85,7 @@ npm start
 
 - Keep your `.env` file private and never commit it to version control
 - Regenerate your bot token if it gets compromised
-- Only give the bot minimum required permissions
+- Only give the bot the minimum required permissions
 
 ## Acknowledgements
-Shoutout to [@M-Alshamsi](https://github.com/M-Alshamsi) for the inspiration. My passion to annoy you has fueled the completion of this project. 🎉
+Shoutout to [@M-Alshamsi](https://github.com/M-Alshamsi) for the inspiration. My passion for annoying you has fueled the completion of this project. 🎉
