@@ -1,6 +1,20 @@
-# The Bot of Minor Inconvenience
+<h1 align="center">
+  <br>
+  <a href="https://discord.com/api/oauth2/authorize?client_id=1427251058198974574&permissions=3072&scope=bot%20applications.commands"><img src="https://github.com/user-attachments/assets/2be85844-37f4-4beb-b44f-9ec0f3abae8a" alt="The Bot of Minor Inconvenience"></a>
+  <br>
+  The Bot of Minor Inconvenience
+  <br>
+</h1>
 
-An annoying Discord bot that allows you to "inconvenience" users by pinging them every 2 minutes using slash commands.
+<h4 align="center">We proudly offer a full range of premium services: annoy, inconvenience, bother, trouble, pester, disturb, disrupt, irritate, frustrate, and occasionally exasperate. </h4>
+
+<p align="center">
+   <a href="https://github.com/Nour-MK/TheBotofMinorInconvenience/blob/main/LICENSE">License</a>
+   •
+  <a href="https://github.com/Nour-MK/TheBotofMinorInconvenience/blob/main/TERMS_OF_SERVICE.md">Terms of Service</a>
+  •
+  <a href="https://github.com/Nour-MK/TheBotofMinorInconvenience/blob/main/PRIVACY_POLICY.md">Privacy Policy</a>
+</p>
 
 ## Features
 
