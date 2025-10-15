@@ -87,5 +87,9 @@ npm start
 - Regenerate your bot token if it gets compromised
 - Only give the bot the minimum required permissions
 
+## Disclaimer
+
+Patrick Star © Nickelodeon. This project is a fan-made, non-commercial work and claims no ownership over this asset. Used here for illustrative purposes only. No copyright infringement intended. All rights to the original character belong to their respective owners.
+
 ## Acknowledgements
 Shoutout to [@M-Alshamsi](https://github.com/M-Alshamsi) for the inspiration. <br> My passion for annoying you has fueled the completion of this project. 🎉
