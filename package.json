@@ -1,0 +1,21 @@
+{
+  "name": "inconvenience-discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that pings users every 2 minutes with the /inconvenience command",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "nodejs"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
