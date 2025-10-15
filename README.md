@@ -88,4 +88,4 @@ npm start
 - Only give the bot the minimum required permissions
 
 ## Acknowledgements
-Shoutout to [@M-Alshamsi](https://github.com/M-Alshamsi) for the inspiration. My passion for annoying you has fueled the completion of this project. 🎉
+Shoutout to [@M-Alshamsi](https://github.com/M-Alshamsi) for the inspiration. <br> My passion for annoying you has fueled the completion of this project. 🎉
