@@ -1,6 +1,20 @@
-# The Bot of Minor Inconvenience
+<h1 align="center">
+  <br>
+  <a href="https://discord.com/api/oauth2/authorize?client_id=1427251058198974574&permissions=3072&scope=bot%20applications.commands"><img src="https://github.com/user-attachments/assets/2be85844-37f4-4beb-b44f-9ec0f3abae8a" alt="The Bot of Minor Inconvenience"></a>
+  <br>
+  The Bot of Minor Inconvenience
+  <br>
+</h1>
 
-An annoying Discord bot that allows you to "inconvenience" users by pinging them every 2 minutes using slash commands.
+<h4 align="center">We proudly offer a full range of premium services: annoy, inconvenience, bother, trouble, pester, disturb, disrupt, irritate, frustrate, and occasionally exasperate. </h4>
+
+<p align="center">
+   <a href="https://github.com/Nour-MK/TheBotofMinorInconvenience/blob/main/LICENSE">License</a>
+   •
+  <a href="https://github.com/Nour-MK/TheBotofMinorInconvenience/blob/main/TERMS_OF_SERVICE.md">Terms of Service</a>
+  •
+  <a href="https://github.com/Nour-MK/TheBotofMinorInconvenience/blob/main/PRIVACY_POLICY.md">Privacy Policy</a>
+</p>
 
 ## Features
 
@@ -160,7 +174,11 @@ If you don't have a Raspberry Pi, other options include:
 
 - Keep your `.env` file private and never commit it to version control
 - Regenerate your bot token if it gets compromised
-- Only give the bot minimum required permissions
+- Only give the bot the minimum required permissions
+
+## Disclaimer
+
+Patrick Star © Nickelodeon. This project is a fan-made, non-commercial work and claims no ownership over this asset. Used here for illustrative purposes only. No copyright infringement intended. All rights to the original character belong to their respective owners.
 
 ## Acknowledgements
-Shoutout to [@M-Alshamsi](https://github.com/M-Alshamsi) for the inspiration. My passion for annoying you has fueled the completion of this project. 🎉
+Shoutout to [@M-Alshamsi](https://github.com/M-Alshamsi) for the inspiration. <br> My passion for annoying you has fueled the completion of this project. 🎉
